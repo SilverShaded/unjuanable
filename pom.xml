@@ -12,6 +12,9 @@
         <module>Array</module>
         <module>HashTable</module>
         <module>LinkedList</module>
+        <module>MergeSort</module>
+        <module>DP</module>
+        <module>String</module>
     </modules>
 
     <dependencies>

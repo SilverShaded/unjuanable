@@ -1,14 +1,11 @@
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Iterator;
-import java.util.List;
+import java.util.*;
 import java.util.stream.Collectors;
 
 
 /*
 * 0004
-*
+* 直接合并出一个新的数组，再查找中位数
 * */
 public class FindMedianSortedArraysSolution {
     /*
