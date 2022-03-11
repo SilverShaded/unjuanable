@@ -16,6 +16,7 @@
         <module>DP</module>
         <module>String</module>
         <module>Stack</module>
+        <module>Queue</module>
     </modules>
 
     <dependencies>
